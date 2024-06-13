@@ -11,7 +11,7 @@ const containerStyle = css`
   padding: 10px;
   margin: auto;
   width: 100%;
-  height: auto;
+  height: 612px;
   text-align: center;
 `;
 
