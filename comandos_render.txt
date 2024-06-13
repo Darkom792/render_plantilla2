@@ -1,0 +1,7 @@
+Instalar el proyecto en node
+---------------------------------
+npm install
+
+Correr el sitio de storybook para render
+----------------------------------------
+npm run storybook
