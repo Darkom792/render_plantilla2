@@ -10,7 +10,7 @@ const containerStyle = css`
   font-size: 25px;\start\repos\Darkom792\render_dany
   padding: 10px;
   margin: auto;
-  width: 100%;
+  width: 80%;
   height: 612px;
   text-align: center;
 `;
