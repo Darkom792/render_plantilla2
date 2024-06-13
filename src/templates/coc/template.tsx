@@ -7,7 +7,7 @@ const containerStyle = css`
   background: url("https://www.ugto.mx/images/certificados/fondo_certificado.png") no-repeat;
   background-size: cover;
   color: #000;
-  font-size: 25px;\start\repos\Darkom792\render_dany
+  font-size: 22px;\start\repos\Darkom792\render_dany
   padding: 10px;
   margin: auto;
   width: 80%;
